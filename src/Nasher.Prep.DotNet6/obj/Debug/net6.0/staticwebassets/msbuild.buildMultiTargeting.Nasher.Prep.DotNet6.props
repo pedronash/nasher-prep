@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nasher.Prep.DotNet6.props" />
+</Project>

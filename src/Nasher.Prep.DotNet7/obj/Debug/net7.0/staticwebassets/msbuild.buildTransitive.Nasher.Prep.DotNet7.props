@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Nasher.Prep.DotNet7.props" />
+</Project>
